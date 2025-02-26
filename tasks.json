@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "description": "Belajar Python",
+        "status": "todo",
+        "createdAt": "2025-02-26 09:17:46",
+        "updateddAt": ""
+    },
+    {
+        "id": 2,
+        "description": "Belajar Backend",
+        "status": "todo",
+        "createdAt": "2025-02-26 09:17:54",
+        "updateddAt": ""
+    },
+    {
+        "id": 3,
+        "description": "belajar node JS x adonis JS",
+        "status": "todo",
+        "createdAt": "2025-02-26 09:27:59",
+        "updateddAt": ""
+    },
+    {
+        "id": 4,
+        "description": "belajar React JS",
+        "status": "todo",
+        "createdAt": "2025-02-26 09:28:44",
+        "updateddAt": ""
+    }
+]
